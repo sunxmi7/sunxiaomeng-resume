@@ -15,7 +15,11 @@
 
 I am a **backend developer with 10 years of internet product development experience**, highly familiar with the R&D processes of PC, APP, WeChat mini programs, H5, and other products.
 
-Proficient in **Go, PHP**, currently deeply researching AI large models and Vibe Coding development. Specializing in distributed web scraping systems, AI application integration, database design, and high-concurrency system architecture. Independently developed multiple Vue and React frontend projects through Vibe Coding, continuously exploring AI applications in engineering practice.
+Proficient in **Go, PHP**, currently deeply researching AI large models and Vibe Coding development. Specializing in web scraping systems, AI application integration, database design, and high-concurrency system architecture. Independently developed multiple Vue and React frontend projects through Vibe Coding, continuously exploring AI applications in engineering practice.
+
+Throughout my career, I have led **over 75 projects** across various industries including e-commerce, finance, and graphics & imaging. Notable projects include the CGSaaS Digital Graphics Asset Cloud Platform and MAM Media Asset Management System. In recent years, I have focused on AI artificial intelligence, systematically studying Python and machine learning. I have independently developed **4 AI application demos** (SD WebUI Text-to-Image, TripoSR Image Generation, Shap-E Text-to-3D, LLaVA Image Analysis).
+
+I possess solid backend development skills, proficient in frameworks such as GoFrame, Gin, and ThinkPHP5. I am familiar with web scraping architectures developed using Go (53 web scraping projects) and understand databases and middleware including MySQL, Redis, MongoDB, and Kafka. Additionally, I have strong teamwork and communication abilities, capable of independently completing project development.
 
 ---
 
