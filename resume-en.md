@@ -96,12 +96,7 @@ Git, SVN, WeChat Mini Program, HTML/CSS/JS, Bootstrap, Requirement Analysis
 - Demo 3 - Shap-E Text-to-3D: Text-based 3D model generation using Shap-E model
 - Demo 4 - LLaVA Image Analysis: Image tag recognition using Ollama LLaVA:34b
 
-**Other Projects**:
-- Cloud Zhi Yi Mini Program: Healthcare platform C-end mini program with ID card recognition, face verification, and handwritten signature features
-- JD.com Website Crawler: E-commerce sales data and user review collection using BeautifulSoup
-- Cloud Zhi Yi Crawler: Vue framework website image scraping using Celery+Selenium
-
-**Tech Stack**: Go 1.19, Microservices, Alibaba Cloud, Casbin, GoFrame, Distributed Crawler (53), AI Demo (4), SD WebUI, TripoSR, Shap-E, LLaVA, Python, BeautifulSoup
+**Tech Stack**: Go 1.19, Microservices, Alibaba Cloud, Casbin, GoFrame, Distributed Crawler (53), AI Demo (4), SD WebUI, TripoSR, Shap-E, LLaVA, Python
 
 ---
 

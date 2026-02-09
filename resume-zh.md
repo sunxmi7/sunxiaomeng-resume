@@ -96,12 +96,7 @@ Git、SVN、微信小程序、HTML/CSS/JS、Bootstrap、需求分析
 - Demo 3 - Shap-E文本生成3D：基于Shap-E模型实现文本到3D模型生成
 - Demo 4 - LLaVA图片分析：使用Ollama LLaVA:34b实现图片标签识别
 
-**其他项目**：
-- 云智医小程序：医疗平台C端小程序开发，身份证文字识别、人脸实名认证、手写签字功能
-- 京东网站爬虫：使用BeautifulSoup采集电商销售数据和用户评论数据
-- 云智医爬虫：使用Celery+Selenium爬取Vue框架网站图片数据
-
-**技术栈**: Go 1.19、微服务、阿里云、Casbin、GoFrame、分布式爬虫(53个)、AI Demo(4个)、SD WebUI、TripoSR、Shap-E、LLaVA、Python、BeautifulSoup
+**技术栈**: Go 1.19、微服务、阿里云、Casbin、GoFrame、分布式爬虫(53个)、AI Demo(4个)、SD WebUI、TripoSR、Shap-E、LLaVA、Python
 
 ---
 
