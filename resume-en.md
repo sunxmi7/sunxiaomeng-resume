@@ -155,16 +155,6 @@ Git, SVN, WeChat Mini Program, HTML/CSS/JS, Bootstrap, Requirement Analysis
 
 ---
 
-### April 2015 - July 2016 - Tianjin Xunxunda Technology Co., Ltd.
-**PHP Engineer | Multiple Industries**
-
-- **Dible Part-time**: PHP development, independently completed all module development for iOS and Android apps
-- Participated in multiple projects (Ufood, Yiti Water Order, etc.) **10 projects completed**
-
-**Tech Stack**: PHP, MySQL, API Development
-
----
-
 ### August 2016 - March 2017 - Lemonate (Tianjin) Network Technology Co., Ltd.
 **PHP Engineer**
 
@@ -173,6 +163,16 @@ Git, SVN, WeChat Mini Program, HTML/CSS/JS, Bootstrap, Requirement Analysis
 - Communicated with frontend developers and provided API interfaces
 
 **Tech Stack**: PHP, MySQL, Web Crawling
+
+---
+
+### April 2015 - July 2016 - Tianjin Xunxunda Technology Co., Ltd.
+**PHP Engineer | Multiple Industries**
+
+- **Dible Part-time**: PHP development, independently completed all module development for iOS and Android apps
+- Participated in multiple projects (Ufood, Yiti Water Order, etc.) **10 projects completed**
+
+**Tech Stack**: PHP, MySQL, API Development
 
 ---
 
