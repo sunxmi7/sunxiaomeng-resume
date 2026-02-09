@@ -1,0 +1,235 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>孙晓萌 - 后端开发工程师 | 个人简历</title>
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/fontawesome.min.css">
+    <style>
+        body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', 'Hiragino Sans GB', 'Microsoft YaHei', sans-serif; }
+        .project-media, .hero-social, .scroll-indicator, .language-switch { display: none !important; }
+        @media print {
+            .nav-toggle, .language-switch { display: none !important; }
+            body { font-size: 12px; }
+            .section { padding: 1rem 0; }
+            .hero { padding: 2rem 0; }
+            .project-card { break-inside: avoid; page-break-inside: avoid; }
+        }
+    </style>
+</head>
+<body>
+    <nav class="navbar">
+        <div class="nav-container">
+            <div class="nav-logo"><span class="logo-icon">✦</span><span class="logo-text">个人简历</span></div>
+            <ul class="nav-menu">
+                <li><a href="#about" class="nav-link">关于我</a></li>
+                <li><a href="#experience" class="nav-link">工作经历</a></li>
+                <li><a href="#skills" class="nav-link">技能专长</a></li>
+                <li><a href="#projects" class="nav-link">项目作品</a></li>
+                <li><a href="#contact" class="nav-link">联系方式</a></li>
+            </ul>
+        </div>
+    </nav>
+
+    <section id="home" class="hero">
+        <div class="hero-content">
+            <div class="hero-text">
+                <p class="hero-greeting">你好，我是</p>
+                <h1 class="hero-name">孙晓萌</h1>
+                <h2 class="hero-title">后端开发工程师</h2>
+                <p class="hero-description">10年互联网产品开发经验 | 精通Go、PHP | 擅长爬虫与AI应用开发</p>
+                <div class="hero-buttons">
+                    <a href="#contact" class="btn btn-primary">联系方式</a>
+                    <a href="#experience" class="btn btn-secondary">工作经历</a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="about" class="section about">
+        <div class="container">
+            <div class="section-header">
+                <h2 class="section-title">关于我</h2>
+            </div>
+            <div class="about-content">
+                <div class="about-text">
+                    <p>我是一名拥有<strong>10年互联网产品开发经验</strong>的后端开发工程师，对PC、APP、微信公众号、小程序、H5等产品的研发流程非常熟悉。</p>
+                    <p>精通<strong>Go、PHP</strong>，正在深入研究AI大模型和Vibe Coding开发。擅长分布式爬虫系统开发、AI应用集成、数据库设计和高并发系统架构。</p>
+                    <div class="about-stats">
+                        <div class="stat-item"><span class="stat-number">10年</span><span class="stat-label">开发经验</span></div>
+                        <div class="stat-item"><span class="stat-number">75</span><span class="stat-label">个项目</span></div>
+                        <div class="stat-item"><span class="stat-number">4</span><span class="stat-label">AI Demo</span></div>
+                        <div class="stat-item"><span class="stat-number">2</span><span class="stat-label">Vibe Coding</span></div>
+                    </div>
+                </div>
+                <div class="about-info">
+                    <div class="info-card">
+                        <h3>当前职位</h3>
+                        <p>后端开发工程师</p>
+                        <span class="info-detail">艾迪普数字 · 云平台团队</span>
+                    </div>
+                    <div class="info-card">
+                        <h3>教育背景</h3>
+                        <p>黑龙江科技大学</p>
+                        <span class="info-detail">通信工程 · 全日制本科 | 2014年</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="experience" class="section experience">
+        <div class="container">
+            <div class="section-header">
+                <h2 class="section-title">工作经历</h2>
+            </div>
+            <div class="timeline">
+                <div class="timeline-item">
+                    <div class="timeline-date">2026年01月</div>
+                    <div class="timeline-content">
+                        <h3>3D包装设计AI平台（Vibe Coding）</h3>
+                        <p>构建三层微服务架构，集成Hunyuan3D、FLUX.2、SDXL Turbo、Paint3D。使用Go + go-zero开发RESTful API，实现SSE实时通信和GPU任务队列。</p>
+                        <div class="timeline-tags"><span>Go</span><span>Python</span><span>React</span><span>Hunyuan3D</span></div>
+                    </div>
+                </div>
+                <div class="timeline-item">
+                    <div class="timeline-date">2025年12月</div>
+                    <div class="timeline-content">
+                        <h3>大模型内容生成系统（Vibe Coding）</h3>
+                        <p>开发Vue2 + Element-UI前端，Golang后端。集成JWT认证、RBAC权限，对接第三方API实现图片/视频生成。</p>
+                        <div class="timeline-tags"><span>Vue2</span><span>Golang</span><span>JWT</span></div>
+                    </div>
+                </div>
+                <div class="timeline-item">
+                    <div class="timeline-date">2025年02月 - 至今</div>
+                    <div class="timeline-content">
+                        <h3>艾迪普数字 | Go后端开发工程师</h3>
+                        <p>负责企业级Go后端系统开发，使用Go 1.19 + 分布式架构。集成阿里云服务（短信、OSS、MNS、视频处理），实现Casbin RBAC权限管理。</p>
+                        <div class="timeline-tags"><span>Go 1.19</span><span>阿里云</span><span>Casbin</span><span>GoFrame</span></div>
+                    </div>
+                </div>
+                <div class="timeline-item">
+                    <div class="timeline-date">2023年09月 - 2025年01月</div>
+                    <div class="timeline-content">
+                        <h3>独立开发 | Go数据爬虫开发工程师</h3>
+                        <p><strong>爬虫项目(53个)</strong>：使用Go开发53个网站爬虫，涵盖电商、社交、新闻等领域。设计分布式架构，实现反爬绕过。</p>
+                        <p><strong>AI Demo开发(4个)</strong>：SD WebUI文生图、TripoSR图片生成、Shap-E文本生成3D、LLaVA图片分析。</p>
+                        <div class="timeline-tags"><span>Go</span><span>分布式爬虫(53)</span><span>AI Demo(4)</span><span>SD WebUI</span></div>
+                    </div>
+                </div>
+                <div class="timeline-item">
+                    <div class="timeline-date">2017年03月 - 2020年11月</div>
+                    <div class="timeline-content">
+                        <h3>北京艾迪普科技发展有限公司 | PHP/GoLang工程师</h3>
+                        <p>开发CGSaaS数字图形资产云平台（PHP+ThinkPHP5+MySQL）、MAM媒体资产管理系统、新版资源平台（Go+GoFrame）。</p>
+                        <div class="timeline-tags"><span>PHP</span><span>ThinkPHP5</span><span>Go</span><span>GoFrame</span></div>
+                    </div>
+                </div>
+                <div class="timeline-item">
+                    <div class="timeline-date">2015年04月 - 早期</div>
+                    <div class="timeline-content">
+                        <h3>早期工作经验</h3>
+                        <p>天津天迅达科技等公司，PHP开发，参与多个项目<strong>共10个项目</strong>。</p>
+                        <div class="timeline-tags"><span>PHP</span><span>MySQL</span></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="skills" class="section skills">
+        <div class="container">
+            <div class="section-header">
+                <h2 class="section-title">技能专长</h2>
+            </div>
+            <div class="skills-grid">
+                <div class="skill-category">
+                    <h3>后端语言</h3>
+                    <div class="skill-list">
+                        <div class="skill-item"><span class="skill-name">Go</span><span class="skill-level">95%</span><div class="skill-bar"><div class="skill-progress" style="width: 95%"></div></div></div>
+                        <div class="skill-item"><span class="skill-name">PHP</span><span class="skill-level">95%</span><div class="skill-bar"><div class="skill-progress" style="width: 95%"></div></div></div>
+                        <div class="skill-item"><span class="skill-name">Python</span><span class="skill-level">60%</span><div class="skill-bar"><div class="skill-progress" style="width: 60%"></div></div></div>
+                    </div>
+                </div>
+                <div class="skill-category">
+                    <h3>技术栈</h3>
+                    <div class="skill-tags">
+                        <span class="tag">BeautifulSoup</span><span class="tag">Scrapy</span><span class="tag">Selenium</span>
+                        <span class="tag">SD WebUI</span><span class="tag">TripoSR</span><span class="tag">Shap-E</span><span class="tag">LLaVA</span>
+                        <span class="tag">MySQL</span><span class="tag">Redis</span><span class="tag">Kafka</span>
+                        <span class="tag">GoFrame</span><span class="tag">Gin</span><span class="tag">ThinkPHP5</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="projects" class="section projects">
+        <div class="container">
+            <div class="section-header">
+                <h2 class="section-title">项目作品</h2>
+            </div>
+            <div class="projects-grid">
+                <div class="project-card">
+                    <div class="project-content">
+                        <h3>3D包装设计AI平台</h3>
+                        <p>端到端AI可视化平台，从自然语言生成3D包装模型。集成Hunyuan3D、FLUX.2、SDXL Turbo。</p>
+                        <div class="project-tech"><span>Go</span><span>Python</span><span>React</span><span>Hunyuan3D</span></div>
+                    </div>
+                </div>
+                <div class="project-card">
+                    <div class="project-content">
+                        <h3>大模型内容生成系统</h3>
+                        <p>全栈AI内容生成平台，Vue2 + Element-UI前端，Golang后端。JWT认证、RBAC权限管理。</p>
+                        <div class="project-tech"><span>Vue2</span><span>Golang</span><span>JWT</span></div>
+                    </div>
+                </div>
+                <div class="project-card">
+                    <div class="project-content">
+                        <h3>CGSaaS数字图形资产云平台</h3>
+                        <p>全球首家图形图像资源存储运营平台，330+分类。PHP+ThinkPHP5+MySQL开发。</p>
+                        <div class="project-tech"><span>PHP</span><span>ThinkPHP5</span><span>MySQL</span></div>
+                    </div>
+                </div>
+                <div class="project-card">
+                    <div class="project-content">
+                        <h3>4个AI生成Demo</h3>
+                        <p>SD WebUI文生图、TripoSR图片生成、Shap-E文本生成3D、LLaVA图片分析。</p>
+                        <div class="project-tech"><span>SD WebUI</span><span>TripoSR</span><span>Shap-E</span><span>LLaVA</span></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="contact" class="section contact">
+        <div class="container">
+            <div class="section-header">
+                <h2 class="section-title">联系方式</h2>
+            </div>
+            <div class="contact-content">
+                <div class="contact-info">
+                    <div class="contact-item">
+                        <h4>邮箱</h4>
+                        <p>791622580@qq.com</p>
+                    </div>
+                    <div class="contact-item">
+                        <h4>电话</h4>
+                        <p>13512440066</p>
+                    </div>
+                    <div class="contact-item">
+                        <h4>地点</h4>
+                        <p>中国 · 天津</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <footer class="footer">
+        <p>感谢你的关注，期待与你合作！</p>
+        <p>© 2026 孙晓萌. All rights reserved.</p>
+    </footer>
+</body>
+</html>
