@@ -67,10 +67,11 @@ Git、SVN、微信小程序、HTML/CSS/JS、Bootstrap、需求分析
 
 - 开发Vue2 + Element-UI前端，用户和管理员控制台
 - 构建Golang后端API，集成JWT认证和RBAC权限
+- 集成**FunClip**视频剪辑API，支持**自动剪辑**、**语音识别**、**手动裁剪**和**LLM智能剪辑**
 - 对接第三方API实现图片/视频生成
 - 实现AI水印和合规检测功能
 
-**技术栈**: Vue2、Element-UI、Golang、MySQL、JWT
+**技术栈**: Vue2、Element-UI、Golang、MySQL、JWT、FunClip
 
 ---
 
@@ -200,9 +201,9 @@ Git、SVN、微信小程序、HTML/CSS/JS、Bootstrap、需求分析
 
 ### 3D包装设计AI平台
 
-端到端AI可视化平台，从自然语言生成3D包装模型。构建三层微服务架构，集成**Hunyuan3D+HunyuanDiT**（图生3D/文生3D）、**FLUX.2-klein-9B**（文生图）、**EASI-Tex+Qwen2.5-7B**（纹理生成）等大模型。使用Go + go-zero开发RESTful API，具备SSE实时通信和GPU任务队列功能。
+端到端AI可视化平台，从自然语言生成3D包装模型。构建三层微服务架构，集成**Hunyuan3D+HunyuanDiT**（图生3D/文生3D）、**FLUX.2-klein-9B**（文生图）、**EASI-Tex+Qwen2.5-7B**（纹理生成）、**SDXL Turbo**、**Paint3D**等大模型。使用Go + go-zero开发RESTful API，具备SSE实时通信和GPU任务队列功能。
 
-**技术栈**: Go、Python、Hunyuan3D、HunyuanDiT、FLUX.2-9B、EASI-Tex
+**技术栈**: Go、Python、Hunyuan3D、HunyuanDiT、FLUX.2-9B、EASI-Tex、Qwen2.5-7B、SDXL Turbo、Paint3D
 
 **演示视频**:
 - EasiTex生成3D模型
@@ -212,9 +213,9 @@ Git、SVN、微信小程序、HTML/CSS/JS、Bootstrap、需求分析
 
 ### 大模型内容生成系统
 
-全栈AI内容生成平台，Vue2 + Element-UI前端，Golang后端。具备JWT认证、RBAC权限管理，对接第三方API实现图片/视频生成。包含AI水印和合规检测功能。
+全栈AI内容生成平台，Vue2 + Element-UI前端，Golang后端。具备JWT认证、RBAC权限管理。集成**FunClip**视频剪辑API，支持自动剪辑、语音识别、LLM智能裁剪。对接第三方API实现图片/视频生成。包含AI水印和合规检测功能。
 
-**技术栈**: Vue2、Element-UI、Golang、MySQL、JWT
+**技术栈**: Vue2、Element-UI、Golang、MySQL、JWT、FunClip
 
 **项目截图**: 8张演示截图
 

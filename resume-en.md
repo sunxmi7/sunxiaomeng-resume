@@ -67,10 +67,11 @@ Git, SVN, WeChat Mini Program, HTML/CSS/JS, Bootstrap, Requirement Analysis
 
 - Developed Vue2 + Element-UI frontend for user and admin dashboards
 - Built Golang backend APIs with JWT authentication and RBAC
+- Integrated **FunClip** video editing API supporting **auto-clipping**, **speech recognition**, **manual trimming**, and **LLM intelligent clipping**
 - Integrated image/video generation with third-party APIs
 - Implemented AI watermarking and compliance detection
 
-**Tech Stack**: Vue2, Element-UI, Golang, MySQL, JWT
+**Tech Stack**: Vue2, Element-UI, Golang, MySQL, JWT, FunClip
 
 ---
 
@@ -200,9 +201,9 @@ Git, SVN, WeChat Mini Program, HTML/CSS/JS, Bootstrap, Requirement Analysis
 
 ### 3D Packaging Design AI Platform
 
-End-to-end AI visualization platform generating 3D packaging models from natural language. Built 3-layer microservices architecture integrating **Hunyuan3D+HunyuanDiT** (Image-to-3D/Text-to-3D), **FLUX.2-klein-9B** (Text-to-Image), **EASI-Tex+Qwen2.5-7B** (Texture Generation) large models. Features Go + go-zero RESTful APIs with SSE real-time communication and GPU task queue.
+End-to-end AI visualization platform generating 3D packaging models from natural language. Built 3-layer microservices architecture integrating **Hunyuan3D+HunyuanDiT** (Image-to-3D/Text-to-3D), **FLUX.2-klein-9B** (Text-to-Image), **EASI-Tex+Qwen2.5-7B** (Texture Generation), **SDXL Turbo**, **Paint3D** large models. Features Go + go-zero RESTful APIs with SSE real-time communication and GPU task queue.
 
-**Tech Stack**: Go, Python, Hunyuan3D, HunyuanDiT, FLUX.2-9B, EASI-Tex
+**Tech Stack**: Go, Python, Hunyuan3D, HunyuanDiT, FLUX.2-9B, EASI-Tex, Qwen2.5-7B, SDXL Turbo, Paint3D
 
 **Demo Videos**:
 - EasiTex 3D Generation
@@ -212,9 +213,9 @@ End-to-end AI visualization platform generating 3D packaging models from natural
 
 ### Large Model Content Generation System
 
-Full-stack AI content generation platform with Vue2 + Element-UI frontend and Golang backend. Features JWT authentication, RBAC, and third-party API integration for image/video generation. Includes AI watermarking and compliance detection for content moderation.
+Full-stack AI content generation platform with Vue2 + Element-UI frontend and Golang backend. Features JWT authentication, RBAC, and **FunClip** video editing API integration supporting auto-clipping, speech recognition, manual trimming, and LLM intelligent clipping. Integrates third-party APIs for image/video generation. Includes AI watermarking and compliance detection for content moderation.
 
-**Tech Stack**: Vue2, Element-UI, Golang, MySQL, JWT
+**Tech Stack**: Vue2, Element-UI, Golang, MySQL, JWT, FunClip
 
 **Screenshots**: 8 project screenshots
 
