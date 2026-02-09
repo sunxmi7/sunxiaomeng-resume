@@ -75,7 +75,7 @@ Git, SVN, WeChat Mini Program, HTML/CSS/JS, Bootstrap, Requirement Analysis
 ---
 
 ### September 2023 - Present - Go Backend Developer
-**Idap Digital | Cloud Platform Team | Graphics & Imaging Industry**
+**IDEAPOOL | Cloud Platform Team | Graphics & Imaging Industry**
 
 - Responsible for enterprise-level Go backend system development and maintenance
 - Led development of core business modules including user authentication and AI services
@@ -131,31 +131,21 @@ Git, SVN, WeChat Mini Program, HTML/CSS/JS, Bootstrap, Requirement Analysis
 
 ---
 
-### March 2022 - July 2022 - Independent Developer
-**GoLang/Python Engineer**
+### March 2017 - November 2020 - IDEAPOOL
+**PHP/GoLang Engineer | Graphics & Imaging Industry**
 
-- **Cloud Zhi Yi Crawler**: Used Celery+Selenium to crawl Vue framework website image data
-- **Fire Department Website**: Developed official website redesign for Tianjin Training Headquarters of Safety Rescue Bureau
-- **Cloud Zhi Yi Mini Program**: Face verification and handwritten signature features
-- Systematically studied Python courses and deeply researched AI artificial intelligence field
+- **CGSaaS Website Development**: Developed digital graphics asset cloud platform using PHP+ThinkPHP5+MySQL
+- **MAM Media Asset Management**: Internal system for managing images, video, and audio with multi-version support
+- **New Resource Platform**: Developed using Go+GoFrame framework, replacing local software storage with network resources
+- **MV Offline Rendering**: Developed web interfaces for integrating offline renderer calls
+- Responsible for requirement analysis, database design, backend development, API debugging, bug fixes, version iterations
+- Provided new feature training for product department and set up various environments
 
-**Tech Stack**: Python, Go, Selenium, Celery, Mini Program
-
----
-
-### November 2021 - February 2022 - Shanghai Deyi Information Technology Co., Ltd.
-**GoLang Engineer | IT Services Industry**
-
-- Official website feature iteration development
-- **Qidian Marketing Project**: Implemented marketing features using Yii+Yaf+Kafka+MySQL+Redis
-- **Internal Requirements Website**: Developed using Gin+MySQL+Redis
-- Organized functional requirement documents and participated in requirement reviews
-
-**Tech Stack**: Go, Gin, Yii, Kafka, Redis
+**Tech Stack**: PHP, ThinkPHP5, Go, GoFrame, MySQL, MAM
 
 ---
 
-### August 2016 - March 2017 - Lemonate (Tianjin) Network Technology Co., Ltd.
+### August 2016 - March 2017 - NLM
 **PHP Engineer**
 
 - Responsible for merchant data crawling, API development, data processing
