@@ -117,17 +117,15 @@ Git, SVN, WeChat Mini Program, HTML/CSS/JS, Bootstrap, Requirement Analysis
 
 ---
 
-### November 2021 - February 2022 - Shanghai Deyi Information Technology Co., Ltd.
-**PHP/GoLang Engineer | Graphics & Imaging Industry**
+### November 2021 - February 2022 - Shanghai Deyi
+**GoLang Engineer | IT Services Industry**
 
-- **CGSaaS Website Development**: Developed digital graphics asset cloud platform using PHP+ThinkPHP5+MySQL
-- **MAM Media Asset Management**: Internal system for managing images, video, and audio with multi-version support
-- **New Resource Platform**: Developed using Go+GoFrame framework, replacing local software storage with network resources
-- **MV Offline Rendering**: Developed web interfaces for integrating offline renderer calls
-- Responsible for requirement analysis, database design, backend development, API debugging, bug fixes, version iterations
-- Provided new feature training for product department and set up various environments
+- Official website feature iteration development
+- **Qidian Marketing Project**: Implemented marketing features using Yii+Yaf+Kafka+MySQL+Redis
+- **Internal Requirements Website**: Developed using Gin+MySQL+Redis
+- Organized functional requirement documents and participated in requirement reviews
 
-**Tech Stack**: PHP, ThinkPHP5, Go, GoFrame, MySQL, MAM
+**Tech Stack**: Go, Gin, Yii, Kafka, Redis
 
 ---
 
