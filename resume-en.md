@@ -62,14 +62,14 @@ Git, SVN, WeChat Mini Program, HTML/CSS/JS, Bootstrap, Requirement Analysis
 
 ---
 
-### December 2025 - Large Model Content Generation System (Vibe Coding)
+### December 2025 - Large Model Registration System (Vibe Coding)
 **Vibe Coding Project | 12 Days Development**
 
 - Developed Vue2 + Element-UI frontend for user and admin dashboards
 - Built Golang backend APIs with JWT authentication and RBAC
-- Integrated **FunClip** video editing API supporting **auto-clipping**, **speech recognition**, **manual trimming**, and **LLM intelligent clipping**
-- Integrated image/video generation with third-party APIs
-- Implemented AI watermarking and compliance detection
+- Integrated **FunClip** video recognition API supporting **auto-clipping**, **speech recognition**, **manual trimming**, and **LLM intelligent clipping**
+- Implemented user registration, login, real-name verification, content review, and complaint handling
+- Developed keyword library management and text security detection features
 
 **Tech Stack**: Vue2, Element-UI, Golang, MySQL, JWT, FunClip
 
@@ -211,9 +211,9 @@ End-to-end AI visualization platform generating 3D packaging models from natural
 
 ---
 
-### Large Model Content Generation System
+### Large Model Registration System
 
-Full-stack AI content generation platform with Vue2 + Element-UI frontend and Golang backend. Features JWT authentication, RBAC, and **FunClip** video editing API integration supporting auto-clipping, speech recognition, manual trimming, and LLM intelligent clipping. Integrates third-party APIs for image/video generation. Includes AI watermarking and compliance detection for content moderation.
+Full-stack regulatory compliance platform with Vue2 + Element-UI frontend and Golang backend. Features JWT authentication, RBAC, and **FunClip** video recognition API integration supporting auto-clipping, speech recognition, manual trimming, and LLM intelligent clipping. Implements user registration, login, real-name verification, content review, complaint handling, keyword library management, and text security detection.
 
 **Tech Stack**: Vue2, Element-UI, Golang, MySQL, JWT, FunClip
 
