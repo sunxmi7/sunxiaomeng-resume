@@ -53,12 +53,12 @@ Git、SVN、微信小程序、HTML/CSS/JS、Bootstrap、需求分析
 ### 2026年01月 - 3D包装设计AI平台（Vibe Coding）
 **Vibe Coding项目 | 16天开发**
 
-- 构建三层微服务架构，集成多种AI模型
-- 集成Hunyuan3D、FLUX.2、SDXL Turbo、Paint3D并调优参数
+- 构建三层微服务架构，集成多种AI大模型
+- 集成**Hunyuan3D+HunyuanDiT**（图生3D/文生3D）、**FLUX.2-klein-9B**（文生图）、**EASI-Tex+Qwen2.5-7B**（纹理生成）
 - 使用Go + go-zero开发RESTful API
 - 实现SSE实时通信和GPU任务队列
 
-**技术栈**: Go、Python、React、AI模型、Hunyuan3D
+**技术栈**: Go、Python、Hunyuan3D、HunyuanDiT、FLUX.2-9B、EASI-Tex、Qwen2.5-7B
 
 ---
 
@@ -200,9 +200,9 @@ Git、SVN、微信小程序、HTML/CSS/JS、Bootstrap、需求分析
 
 ### 3D包装设计AI平台
 
-端到端AI可视化平台，从自然语言生成3D包装模型。构建三层微服务架构，集成Hunyuan3D、FLUX.2、SDXL Turbo、Paint3D并调优参数。使用Go + go-zero开发RESTful API，具备SSE实时通信和GPU任务队列功能。
+端到端AI可视化平台，从自然语言生成3D包装模型。构建三层微服务架构，集成**Hunyuan3D+HunyuanDiT**（图生3D/文生3D）、**FLUX.2-klein-9B**（文生图）、**EASI-Tex+Qwen2.5-7B**（纹理生成）等大模型。使用Go + go-zero开发RESTful API，具备SSE实时通信和GPU任务队列功能。
 
-**技术栈**: Go、Python、React、Hunyuan3D、FLUX.2、go-zero
+**技术栈**: Go、Python、Hunyuan3D、HunyuanDiT、FLUX.2-9B、EASI-Tex
 
 **演示视频**:
 - EasiTex生成3D模型

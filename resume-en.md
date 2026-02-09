@@ -53,12 +53,12 @@ Git, SVN, WeChat Mini Program, HTML/CSS/JS, Bootstrap, Requirement Analysis
 ### January 2026 - 3D Packaging Design AI Platform (Vibe Coding)
 **Vibe Coding Project | 16 Days Development**
 
-- Built 3-layer microservices architecture integrating multiple AI models
-- Integrated Hunyuan3D, FLUX.2, SDXL Turbo, Paint3D with parameter tuning
+- Built 3-layer microservices architecture integrating multiple AI large models
+- Integrated **Hunyuan3D+HunyuanDiT** (Image-to-3D/Text-to-3D), **FLUX.2-klein-9B** (Text-to-Image), **EASI-Tex+Qwen2.5-7B** (Texture Generation)
 - Developed RESTful APIs using Go + go-zero
 - Implemented SSE real-time communication and GPU task queue
 
-**Tech Stack**: Go, Python, React, AI Models, Hunyuan3D
+**Tech Stack**: Go, Python, Hunyuan3D, HunyuanDiT, FLUX.2-9B, EASI-Tex, Qwen2.5-7B
 
 ---
 
@@ -200,9 +200,9 @@ Git, SVN, WeChat Mini Program, HTML/CSS/JS, Bootstrap, Requirement Analysis
 
 ### 3D Packaging Design AI Platform
 
-End-to-end AI visualization platform generating 3D packaging models from natural language. Built 3-layer microservices architecture integrating Hunyuan3D, FLUX.2, SDXL Turbo, and Paint3D with parameter tuning. Features Go + go-zero RESTful APIs with SSE real-time communication and GPU task queue.
+End-to-end AI visualization platform generating 3D packaging models from natural language. Built 3-layer microservices architecture integrating **Hunyuan3D+HunyuanDiT** (Image-to-3D/Text-to-3D), **FLUX.2-klein-9B** (Text-to-Image), **EASI-Tex+Qwen2.5-7B** (Texture Generation) large models. Features Go + go-zero RESTful APIs with SSE real-time communication and GPU task queue.
 
-**Tech Stack**: Go, Python, React, Hunyuan3D, FLUX.2, go-zero
+**Tech Stack**: Go, Python, Hunyuan3D, HunyuanDiT, FLUX.2-9B, EASI-Tex
 
 **Demo Videos**:
 - EasiTex 3D Generation
