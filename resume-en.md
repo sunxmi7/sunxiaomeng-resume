@@ -58,7 +58,7 @@ Git, SVN, WeChat Mini Program, HTML/CSS/JS, Bootstrap, Requirement Analysis
 - Developed RESTful APIs using Go + go-zero
 - Implemented SSE real-time communication and GPU task queue
 
-**Tech Stack**: Go, Python, Hunyuan3D, HunyuanDiT, FLUX.2-9B, EASI-Tex, Qwen2.5-7B
+**Tech Stack**: Go, Python, Hunyuan3D, HunyuanDiT, FLUX.2-9B, EASI-Tex, Qwen2.5-7B, React, SDXL Turbo, Paint3D
 
 ---
 

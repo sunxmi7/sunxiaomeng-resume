@@ -58,7 +58,7 @@ Git、SVN、微信小程序、HTML/CSS/JS、Bootstrap、需求分析
 - 使用Go + go-zero开发RESTful API
 - 实现SSE实时通信和GPU任务队列
 
-**技术栈**: Go、Python、Hunyuan3D、HunyuanDiT、FLUX.2-9B、EASI-Tex、Qwen2.5-7B
+**技术栈**: Go、Python、Hunyuan3D、HunyuanDiT、FLUX.2-9B、EASI-Tex、Qwen2.5-7B、React、SDXL Turbo、Paint3D
 
 ---
 
