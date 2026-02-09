@@ -54,11 +54,11 @@ Git、SVN、微信小程序、HTML/CSS/JS、Bootstrap、需求分析
 **Vibe Coding项目 | 16天开发**
 
 - 构建三层微服务架构，集成多种AI大模型
-- 集成**Hunyuan3D+HunyuanDiT**（图生3D/文生3D）、**FLUX.2-klein-9B**（文生图）、**EASI-Tex+Qwen2.5-7B**（纹理生成）
-- 使用Go + go-zero开发RESTful API
+- 集成**Hunyuan3D+HunyuanDiT**（图生3D/文生3D）、**FLUX.2-klein-9B**（文生图）、**EASI-Tex+Qwen2.5-7B**（纹理生成）、**SDXL Turbo**、**Paint3D**
+- 使用Go + go-zero + **CloudWeGo Eino**（Graph编排）开发RESTful API
 - 实现SSE实时通信和GPU任务队列
 
-**技术栈**: Go、Python、Hunyuan3D、HunyuanDiT、FLUX.2-9B、EASI-Tex、Qwen2.5-7B、React、SDXL Turbo、Paint3D
+**技术栈**: Go、Python、Hunyuan3D、HunyuanDiT、FLUX.2-9B、EASI-Tex、Qwen2.5-7B、React、SDXL Turbo、Paint3D、Eino
 
 ---
 
@@ -89,8 +89,8 @@ Git、SVN、微信小程序、HTML/CSS/JS、Bootstrap、需求分析
 
 ---
 
-### 2023年09月 - 2025年01月 - Go数据爬虫开发工程师
-**独立开发 | 1年5个月**
+### 2023年01月 - 2025年01月 - Go数据爬虫开发工程师
+**独立开发 | 2年1个月**
 
 **爬虫项目(53个)**：使用Go语言开发53个不同网站的爬虫系统，涵盖电商、社交、新闻等多个领域
 
@@ -104,50 +104,16 @@ Git、SVN、微信小程序、HTML/CSS/JS、Bootstrap、需求分析
 - Demo 3 - Shap-E文本生成3D：基于Shap-E模型实现文本到3D模型生成
 - Demo 4 - LLaVA图片分析：使用Ollama LLaVA:34b实现图片标签识别
 
-**技术栈**: Go、分布式爬虫(53个)、AI Demo(4个)、SD WebUI、TripoSR、Shap-E、LLaVA
+**其他项目**：
+- 云智医小程序：医疗平台C端小程序开发，身份证文字识别、人脸实名认证、手写签字功能
+- 京东网站爬虫：使用BeautifulSoup采集电商销售数据和用户评论数据
+- 云智医爬虫：使用Celery+Selenium爬取Vue框架网站图片数据
+
+**技术栈**: Go、分布式爬虫(53个)、AI Demo(4个)、SD WebUI、TripoSR、Shap-E、LLaVA、Python、BeautifulSoup
 
 ---
 
-### 2023年06月 - 2023年07月 - 云智医小程序
-**GoLang/PHP工程师 | 医疗行业**
-
-- 负责医疗公司平台C端小程序开发
-- 实现身份证文字识别功能（对接百度云OCR）
-- 开发人脸实名认证模块（对接百度云人脸识别API）
-- 实现手写签字签署合同功能（小程序原生语言+百度云）
-- 对百度云千帆大模型进行初步了解和集成
-
-**技术栈**: Go、PHP、小程序、百度云OCR、人脸识别
-
----
-
-### 2023年01月 - 2023年05月 - 用户复购预测项目
-**Python工程师 | AI数据分析**
-
-- 基于商家信息和消费者购买行为数据，构建预测模型
-- 使用LGB（LightGBM）和XGB（XGBoost）机器学习模型
-- 进行数据清洗、特征工程和模型训练
-- 通过交叉验证优化模型参数，提升预测准确率
-- 预测新消费者在未来6个月内再次购买的概率
-
-**技术栈**: Python、机器学习、LGB模型、XGB模型、数据分析
-
----
-
-### 2023年01月 - 2023年04月 - 京东网站爬虫
-**Python工程师 | 电商数据采集**
-
-- 开发京东网站爬虫，采集销售数据
-- 使用BeautifulSoup库提取网页数据
-- 采集粽子类目销售前十名数据
-- 抓取对应商品的用户评论数据
-- 生成Excel/CSV格式的数据报告
-
-**技术栈**: Python、BeautifulSoup、数据爬虫、数据分析
-
----
-
-### 2022年06月 - 2022年07月 - 云智医爬虫
+### 2022年03月 - 2022年07月 - 独立开发工程师
 **Python工程师**
 
 - 由于目标网站为Vue框架开发，需使用Celery+Selenium进行数据爬取

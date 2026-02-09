@@ -54,11 +54,11 @@ Git, SVN, WeChat Mini Program, HTML/CSS/JS, Bootstrap, Requirement Analysis
 **Vibe Coding Project | 16 Days Development**
 
 - Built 3-layer microservices architecture integrating multiple AI large models
-- Integrated **Hunyuan3D+HunyuanDiT** (Image-to-3D/Text-to-3D), **FLUX.2-klein-9B** (Text-to-Image), **EASI-Tex+Qwen2.5-7B** (Texture Generation)
-- Developed RESTful APIs using Go + go-zero
+- Integrated **Hunyuan3D+HunyuanDiT** (Image-to-3D/Text-to-3D), **FLUX.2-klein-9B** (Text-to-Image), **EASI-Tex+Qwen2.5-7B** (Texture Generation), **SDXL Turbo**, **Paint3D**
+- Developed RESTful APIs using Go + go-zero + **CloudWeGo Eino** (Graph Orchestration)
 - Implemented SSE real-time communication and GPU task queue
 
-**Tech Stack**: Go, Python, Hunyuan3D, HunyuanDiT, FLUX.2-9B, EASI-Tex, Qwen2.5-7B, React, SDXL Turbo, Paint3D
+**Tech Stack**: Go, Python, Hunyuan3D, HunyuanDiT, FLUX.2-9B, EASI-Tex, Qwen2.5-7B, React, SDXL Turbo, Paint3D, Eino
 
 ---
 
@@ -89,8 +89,8 @@ Git, SVN, WeChat Mini Program, HTML/CSS/JS, Bootstrap, Requirement Analysis
 
 ---
 
-### September 2023 - January 2025 - Go Web Scraping Developer
-**Independent Developer | 1 Year 5 Months**
+### January 2023 - January 2025 - Go Web Scraping Developer
+**Independent Developer | 2 Years 1 Month**
 
 **Crawler Projects (53)**: Developed 53 web scrapers using Go covering e-commerce, social media, and news platforms
 
@@ -104,50 +104,16 @@ Git, SVN, WeChat Mini Program, HTML/CSS/JS, Bootstrap, Requirement Analysis
 - Demo 3 - Shap-E Text-to-3D: Text-based 3D model generation using Shap-E model
 - Demo 4 - LLaVA Image Analysis: Image tag recognition using Ollama LLaVA:34b
 
-**Tech Stack**: Go, Distributed Crawler (53), AI Demo (4), SD WebUI, TripoSR, Shap-E, LLaVA
+**Other Projects**:
+- Cloud Zhi Yi Mini Program: Healthcare platform C-end mini program with ID card recognition, face verification, and handwritten signature features
+- JD.com Website Crawler: E-commerce sales data and user review collection using BeautifulSoup
+- Cloud Zhi Yi Crawler: Vue framework website image scraping using Celery+Selenium
+
+**Tech Stack**: Go, Distributed Crawler (53), AI Demo (4), SD WebUI, TripoSR, Shap-E, LLaVA, Python, BeautifulSoup
 
 ---
 
-### June 2023 - July 2023 - Cloud Zhi Yi Mini Program
-**GoLang/PHP Engineer | Healthcare Industry**
-
-- Responsible for C-end mini program development for healthcare company platform
-- Implemented ID card text recognition (integrated with Baidu Cloud OCR)
-- Developed face verification module (integrated with Baidu Cloud Face Recognition API)
-- Implemented handwritten signature contract signing feature (mini program native + Baidu Cloud)
-- Initial understanding and integration of Baidu Cloud Qianfan LLM
-
-**Tech Stack**: Go, PHP, Mini Program, Baidu Cloud OCR, Face Recognition
-
----
-
-### January 2023 - May 2023 - User Repurchase Prediction Project
-**Python Engineer | AI Data Analysis**
-
-- Built prediction models based on merchant information and consumer purchase behavior data
-- Used LGB (LightGBM) and XGB (XGBoost) machine learning models
-- Performed data cleaning, feature engineering, and model training
-- Optimized model parameters through cross-validation to improve prediction accuracy
-- Predicted the probability of new consumers making repeat purchases within 6 months
-
-**Tech Stack**: Python, Machine Learning, LGB, XGB, Data Analysis
-
----
-
-### January 2023 - April 2023 - JD.com Website Crawler
-**Python Engineer | E-commerce Data Collection**
-
-- Developed JD.com website crawler for sales data collection
-- Used BeautifulSoup library for web data extraction
-- Collected sales data for top 10 zongzi category products
-- Scraped user review data for corresponding products
-- Generated Excel/CSV format data reports
-
-**Tech Stack**: Python, BeautifulSoup, Web Crawler, Data Analysis
-
----
-
-### June 2022 - July 2022 - Cloud Zhi Yi Crawler
+### March 2022 - July 2022 - Independent Developer
 **Python Engineer**
 
 - Target website developed using Vue framework, requiring Celery+Selenium for data scraping
