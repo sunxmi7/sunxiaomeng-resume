@@ -147,6 +147,29 @@ Git, SVN, WeChat Mini Program, HTML/CSS/JS, Bootstrap, Requirement Analysis
 
 ---
 
+### June 2022 - July 2022 - Cloud Zhi Yi Crawler
+**Python Engineer**
+
+- Target website developed using Vue framework, requiring Celery+Selenium for data scraping
+- Crawled image data from healthcare platform website
+- Implemented distributed task scheduling and anti-scraping countermeasures
+
+**Tech Stack**: Python, Selenium, Celery, Distributed Crawler
+
+---
+
+### March 2022 - June 2022 - Tianjin Training Headquarters of Safety Rescue Bureau Website
+**Full-stack Engineer**
+
+- Responsible for official website redesign without affecting database
+- Added Banner module, Fire Prevention module, and Friendship Links module
+- Implemented student login functionality and exam website modules
+- Responsible for official website quarterly statistics feature
+
+**Tech Stack**: Python, Go, Full-stack Development
+
+---
+
 ### March 2017 - November 2020 - Beijing Idap Technology Development Co., Ltd.
 **PHP/GoLang Engineer | Graphics & Imaging Industry**
 
@@ -255,6 +278,22 @@ Based on LGB and XGB machine learning models, predicting the probability of new 
 Developed 53 website crawlers using Go/Python covering e-commerce, social media, news and other fields. Includes distributed architecture design, anti-scraping strategy solutions, data cleaning and storage, and complete Pipeline.
 
 **Tech Stack**: Go, Python, BeautifulSoup, Scrapy, Selenium
+
+---
+
+### MAM Media Asset Management System
+
+Internal media asset management software for digital management of images, video, and audio with multi-version support. Responsible for requirement analysis, database design, backend development, API debugging, bug fixes, version iterations, product department training, and environment setup.
+
+**Tech Stack**: PHP, ThinkPHP5, MySQL
+
+---
+
+### MV Offline Rendering System
+
+Internal offline rendering software platform providing web interface integration for calling offline renderers. Implemented complete business workflow including task submission, progress tracking, and result download.
+
+**Tech Stack**: PHP, MySQL, Rendering Engine Integration
 
 ---
 
