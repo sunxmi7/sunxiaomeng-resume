@@ -1111,7 +1111,10 @@ img {
     }
     
     .hero-image {
-        margin-bottom: 2rem;
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        margin-bottom: 0;
     }
     
     .avatar-container {
@@ -1125,7 +1128,7 @@ img {
     }
     
     .avatar-placeholder {
-        font-size: 2rem;
+        font-size: 1.8rem;
     }
     
     .avatar-ring {
@@ -1133,6 +1136,7 @@ img {
         left: -8px;
         right: -8px;
         bottom: -8px;
+    }
     }
     
     /* Sections */
@@ -1259,6 +1263,15 @@ img {
     .btn {
         width: 100%;
         text-align: center;
+    }
+    
+    .avatar-container {
+        width: 100px;
+        height: 100px;
+    }
+    
+    .avatar-placeholder {
+        font-size: 1.5rem;
     }
     
     .about-stats {
