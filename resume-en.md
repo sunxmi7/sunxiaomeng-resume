@@ -202,7 +202,13 @@ Git, SVN, WeChat Mini Program, HTML/CSS/JS, Bootstrap, Requirement Analysis
 
 End-to-end AI visualization platform generating 3D packaging models from natural language. Built 3-layer microservices architecture integrating **Hunyuan3D+HunyuanDiT** (Image-to-3D/Text-to-3D), **FLUX.2-klein-9B** (Text-to-Image), **EASI-Tex+Qwen2.5-7B** (Texture Generation), **SDXL Turbo**, **Paint3D** large models. Features Go + go-zero RESTful APIs with SSE real-time communication and GPU task queue.
 
-**Tech Stack**: Go, Python, Hunyuan3D, HunyuanDiT, FLUX.2-9B, EASI-Tex, Qwen2.5-7B, SDXL Turbo, Paint3D
+**Technical Architecture**:
+
+**Frontend**: Vue 3.4+ (Composition API + TypeScript) + Vite 5.0+ + Element Plus 2.5+ + Pinia 2.0+ + Three.js 0.160+
+
+**Backend**: Go 1.23+ + go-zero + CloudWeGo Eino 0.7.18+ (Graph Orchestration) + go-frame/gdb + MySQL 8.0 + Redis 5.0 + Milvus 2.4.2
+
+**AI Models**: Hunyuan3D+HunyuanDiT, FLUX.2-klein-9B, EASI-Tex+Qwen2.5-7B, SDXL Turbo, Paint3D, LLaVA
 
 **Demo Videos**:
 - EasiTex 3D Generation

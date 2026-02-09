@@ -202,7 +202,13 @@ Git、SVN、微信小程序、HTML/CSS/JS、Bootstrap、需求分析
 
 端到端AI可视化平台，从自然语言生成3D包装模型。构建三层微服务架构，集成**Hunyuan3D+HunyuanDiT**（图生3D/文生3D）、**FLUX.2-klein-9B**（文生图）、**EASI-Tex+Qwen2.5-7B**（纹理生成）、**SDXL Turbo**、**Paint3D**等大模型。使用Go + go-zero开发RESTful API，具备SSE实时通信和GPU任务队列功能。
 
-**技术栈**: Go、Python、Hunyuan3D、HunyuanDiT、FLUX.2-9B、EASI-Tex、Qwen2.5-7B、SDXL Turbo、Paint3D
+**技术架构**:
+
+**前端**: Vue 3.4+ (Composition API + TypeScript) + Vite 5.0+ + Element Plus 2.5+ + Pinia 2.0+ + Three.js 0.160+
+
+**后端**: Go 1.23+ + go-zero + CloudWeGo Eino 0.7.18+ (Graph编排) + go-frame/gdb + MySQL 8.0 + Redis 5.0 + Milvus 2.4.2
+
+**AI模型**: Hunyuan3D+HunyuanDiT、FLUX.2-klein-9B、EASI-Tex+Qwen2.5-7B、SDXL Turbo、Paint3D、LLaVA
 
 **演示视频**:
 - EasiTex生成3D模型
