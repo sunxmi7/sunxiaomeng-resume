@@ -74,7 +74,7 @@ Git, SVN, WeChat Mini Program, HTML/CSS/JS, Bootstrap, Requirement Analysis
 
 ---
 
-### February 2025 - Present - Go Backend Developer
+### September 2023 - Present - Go Backend Developer
 **Idap Digital | Cloud Platform Team | Graphics & Imaging Industry**
 
 - Responsible for enterprise-level Go backend system development and maintenance
@@ -85,15 +85,7 @@ Git, SVN, WeChat Mini Program, HTML/CSS/JS, Bootstrap, Requirement Analysis
 - Developed MAM modules for image, video, and 3D model management
 - Responsible for requirement analysis, database design, backend development, API debugging
 
-**Tech Stack**: Go 1.19, Microservices, Alibaba Cloud, Casbin, GoFrame
-
----
-
-### January 2023 - January 2025 - Go Web Scraping Developer
-**Independent Developer | 2 Years 1 Month**
-
 **Crawler Projects (53)**: Developed 53 web scrapers using Go covering e-commerce, social media, and news platforms
-
 - Designed distributed crawler architecture supporting multi-node parallel collection
 - Implemented anti-scraping countermeasures for stable data acquisition
 - Built complete data pipelines including cleaning, storage, and indexing
@@ -109,7 +101,7 @@ Git, SVN, WeChat Mini Program, HTML/CSS/JS, Bootstrap, Requirement Analysis
 - JD.com Website Crawler: E-commerce sales data and user review collection using BeautifulSoup
 - Cloud Zhi Yi Crawler: Vue framework website image scraping using Celery+Selenium
 
-**Tech Stack**: Go, Distributed Crawler (53), AI Demo (4), SD WebUI, TripoSR, Shap-E, LLaVA, Python, BeautifulSoup
+**Tech Stack**: Go 1.19, Microservices, Alibaba Cloud, Casbin, GoFrame, Distributed Crawler (53), AI Demo (4), SD WebUI, TripoSR, Shap-E, LLaVA, Python, BeautifulSoup
 
 ---
 

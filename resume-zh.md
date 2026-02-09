@@ -74,7 +74,7 @@ Git、SVN、微信小程序、HTML/CSS/JS、Bootstrap、需求分析
 
 ---
 
-### 2025年02月 - 至今 - Go后端开发工程师
+### 2023年09月 - 至今 - Go后端开发工程师
 **艾迪普数字 | 云平台团队 | 图形图像行业**
 
 - 负责企业级Go后端系统的开发和维护
@@ -85,18 +85,10 @@ Git、SVN、微信小程序、HTML/CSS/JS、Bootstrap、需求分析
 - 开发图片、视频、3D模型管理的MAM模块
 - 负责需求分析、数据库设计、后台开发、接口调试
 
-**技术栈**: Go 1.19、微服务、阿里云、Casbin、GoFrame
-
----
-
-### 2023年01月 - 2025年01月 - Go数据爬虫开发工程师
-**独立开发 | 2年1个月**
-
 **爬虫项目(53个)**：使用Go语言开发53个不同网站的爬虫系统，涵盖电商、社交、新闻等多个领域
-
-- 设计并实现分布式爬虫架构，支持多节点并行采集，提升数据采集效率
-- 针对目标网站的反爬策略，设计相应的绕过方案，确保数据采集的稳定性
-- 开发完善的数据清洗、存储和索引流程，构建完整的数据Pipeline
+- 设计并实现分布式爬虫架构，支持多节点并行采集
+- 针对目标网站的反爬策略，设计相应的绕过方案
+- 开发完善的数据清洗、存储和索引流程
 
 **AI Demo开发(4个)**：
 - Demo 1 - SD WebUI API文生图：基于Stable Diffusion实现文本到图像生成
@@ -109,7 +101,7 @@ Git、SVN、微信小程序、HTML/CSS/JS、Bootstrap、需求分析
 - 京东网站爬虫：使用BeautifulSoup采集电商销售数据和用户评论数据
 - 云智医爬虫：使用Celery+Selenium爬取Vue框架网站图片数据
 
-**技术栈**: Go、分布式爬虫(53个)、AI Demo(4个)、SD WebUI、TripoSR、Shap-E、LLaVA、Python、BeautifulSoup
+**技术栈**: Go 1.19、微服务、阿里云、Casbin、GoFrame、分布式爬虫(53个)、AI Demo(4个)、SD WebUI、TripoSR、Shap-E、LLaVA、Python、BeautifulSoup
 
 ---
 
