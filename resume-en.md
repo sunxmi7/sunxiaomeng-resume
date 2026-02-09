@@ -105,30 +105,19 @@ Git, SVN, WeChat Mini Program, HTML/CSS/JS, Bootstrap, Requirement Analysis
 
 ---
 
-### March 2022 - July 2022 - Independent Developer
-**Python Engineer**
+### March 2022 - September 2023 - Independent Developer
+**GoLang/Python Engineer**
 
-- Target website developed using Vue framework, requiring Celery+Selenium for data scraping
-- Crawled image data from healthcare platform website
-- Implemented distributed task scheduling and anti-scraping countermeasures
+- **Cloud Zhi Yi Crawler**: Used Celery+Selenium to crawl Vue framework website image data
+- **Fire Department Website**: Developed official website redesign for Tianjin Training Headquarters of Safety Rescue Bureau
+- **Cloud Zhi Yi Mini Program**: Face verification and handwritten signature features
+- Systematically studied Python courses and deeply researched AI artificial intelligence field
 
-**Tech Stack**: Python, Selenium, Celery, Distributed Crawler
-
----
-
-### March 2022 - June 2022 - Tianjin Training Headquarters of Safety Rescue Bureau Website
-**Full-stack Engineer**
-
-- Responsible for official website redesign without affecting database
-- Added Banner module, Fire Prevention module, and Friendship Links module
-- Implemented student login functionality and exam website modules
-- Responsible for official website quarterly statistics feature
-
-**Tech Stack**: Python, Go, Full-stack Development
+**Tech Stack**: Python, Go, Selenium, Celery, Mini Program
 
 ---
 
-### March 2017 - November 2020 - Beijing Idap Technology Development Co., Ltd.
+### November 2021 - February 2022 - Shanghai Deyi Information Technology Co., Ltd.
 **PHP/GoLang Engineer | Graphics & Imaging Industry**
 
 - **CGSaaS Website Development**: Developed digital graphics asset cloud platform using PHP+ThinkPHP5+MySQL
