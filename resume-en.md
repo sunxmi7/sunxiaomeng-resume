@@ -156,7 +156,7 @@ Git, SVN, WeChat Mini Program, HTML/CSS/JS, Bootstrap, Requirement Analysis
 
 ---
 
-### April 2015 - July 2016 - Tianjin Xunxunda Technology Co., Ltd.
+### April 2015 - July 2016 - Txunda
 **PHP Engineer | Multiple Industries**
 
 - **Dible Part-time**: PHP development, independently completed all module development for iOS and Android apps
