@@ -62,14 +62,13 @@ Git, SVN, WeChat Mini Program, HTML/CSS/JS, Bootstrap, Requirement Analysis
 
 ---
 
-### December 2025 - Large Model Registration System (Vibe Coding)
+### December 2025 - Large Model Content Generation System (Vibe Coding)
 **Vibe Coding Project | 12 Days Development**
 
 - Developed Vue2 + Element-UI frontend for user and admin dashboards
 - Built Golang backend APIs with JWT authentication and RBAC
 - Integrated **FunClip** video recognition API supporting **auto-clipping**, **speech recognition**, **manual trimming**, and **LLM intelligent clipping**
-- Implemented user registration, login, real-name verification, content review, and complaint handling
-- Developed keyword library management and text security detection features
+- Implemented AI watermarking and compliance detection
 
 **Tech Stack**: Vue2, Element-UI, Golang, MySQL, JWT, FunClip
 
@@ -211,9 +210,9 @@ End-to-end AI visualization platform generating 3D packaging models from natural
 
 ---
 
-### Large Model Registration System
+### Large Model Content Generation System
 
-Full-stack regulatory compliance platform with Vue2 + Element-UI frontend and Golang backend. Features JWT authentication, RBAC, and **FunClip** video recognition API integration supporting auto-clipping, speech recognition, manual trimming, and LLM intelligent clipping. Implements user registration, login, real-name verification, content review, complaint handling, keyword library management, and text security detection.
+Full-stack AI content generation platform with Vue2 + Element-UI frontend and Golang backend. Features JWT authentication, RBAC, and **FunClip** video recognition API integration supporting auto-clipping, speech recognition, manual trimming, and LLM intelligent clipping. Implements AI watermarking and compliance detection.
 
 **Tech Stack**: Vue2, Element-UI, Golang, MySQL, JWT, FunClip
 

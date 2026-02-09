@@ -62,14 +62,13 @@ Git、SVN、微信小程序、HTML/CSS/JS、Bootstrap、需求分析
 
 ---
 
-### 2025年12月 - 大模型备案系统（Vibe Coding）
+### 2025年12月 - 大模型内容生成系统（Vibe Coding）
 **Vibe Coding项目 | 12天开发**
 
 - 开发Vue2 + Element-UI前端，用户和管理员控制台
 - 构建Golang后端API，集成JWT认证和RBAC权限
 - 集成**FunClip**视频识别API，支持**自动剪辑**、**语音识别**、**手动裁剪**和**LLM智能剪辑**
-- 实现用户注册登录、实名认证、内容审核、投诉处理功能
-- 开发关键词库管理、文本安全检测、内容审核队列
+- 实现AI水印和合规检测功能
 
 **技术栈**: Vue2、Element-UI、Golang、MySQL、JWT、FunClip
 
@@ -211,9 +210,9 @@ Git、SVN、微信小程序、HTML/CSS/JS、Bootstrap、需求分析
 
 ---
 
-### 大模型备案系统
+### 大模型内容生成系统
 
-全栈监管备案平台，Vue2 + Element-UI前端，Golang后端。具备JWT认证、RBAC权限管理。集成**FunClip**视频识别API，支持自动剪辑、语音识别、LLM智能裁剪。实现用户注册登录、实名认证、内容审核、投诉处理、关键词库管理和文本安全检测功能。
+全栈AI内容生成平台，Vue2 + Element-UI前端，Golang后端。具备JWT认证、RBAC权限管理。集成**FunClip**视频识别API，支持自动剪辑、语音识别、LLM智能裁剪。实现AI水印和合规检测功能。
 
 **技术栈**: Vue2、Element-UI、Golang、MySQL、JWT、FunClip
 
